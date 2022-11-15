@@ -1,0 +1,4 @@
+baseURL = 'https://blog.selfmarket.io/'
+languageCode = 'en-us'
+title = 'SELFMARKET'
+theme = "ananke"
