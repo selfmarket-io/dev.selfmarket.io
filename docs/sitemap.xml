@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.selfmarket.io/privacy/</loc>
+    <loc>https://dev.selfmarket.io/privacy/</loc>
     <lastmod>2022-11-16T01:06:31+02:00</lastmod>
   </url><url>
-    <loc>https://blog.selfmarket.io/categories/</loc>
+    <loc>https://dev.selfmarket.io/categories/</loc>
   </url><url>
-    <loc>https://blog.selfmarket.io/</loc>
+    <loc>https://dev.selfmarket.io/</loc>
   </url><url>
-    <loc>https://blog.selfmarket.io/tags/</loc>
+    <loc>https://dev.selfmarket.io/tags/</loc>
   </url>
 </urlset>

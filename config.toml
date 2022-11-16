@@ -1,4 +1,4 @@
-baseURL = 'https://blog.selfmarket.io/'
+baseURL = 'https://dev.selfmarket.io/'
 languageCode = 'en-us'
 title = 'SELFMARKET'
 theme = "ananke"
